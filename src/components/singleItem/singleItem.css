@@ -26,3 +26,7 @@
 .todos__single-icons i:hover {
   color: aliceblue;
 }
+
+.todos__single--text {
+  max-width: 60%;
+}
