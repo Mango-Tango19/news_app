@@ -1,4 +1,4 @@
-##Todo app using TypeScript and React Hooks
+## Todo app using TypeScript and React Hooks
 
 In the project directory, you can run:
 
