@@ -1,5 +1,0 @@
-const newsRequest = () => {
-
-}
-
-export { newsRequest }

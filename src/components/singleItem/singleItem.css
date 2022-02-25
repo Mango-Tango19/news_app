@@ -1,0 +1,28 @@
+.todos__single {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  background-color: #20c997;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.todos__single-text {
+  margin-right: 20px;
+  font-size: 1.5em;
+}
+
+.todos__single-icons {
+  font-size: 1.5em;
+}
+
+.todos__single-icons i {
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.todos__single-icons i:hover {
+  color: aliceblue;
+}
